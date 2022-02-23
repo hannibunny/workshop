@@ -1,0 +1,7 @@
+name: bindertest
+channels:
+  - defaults
+dependencies:
+  - scikit-learn
+  - matplotlib
+prefix: /opt/anaconda3/envs/bindertest
